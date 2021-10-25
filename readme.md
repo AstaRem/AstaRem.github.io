@@ -1,5 +1,5 @@
 # Project Name
-> CSS seletors cheatsheet
+> CSS selectors cheatsheet
 
 
 
